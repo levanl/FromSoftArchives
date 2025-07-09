@@ -1,0 +1,67 @@
+[
+    {
+      "slug": "elden-ring",
+      "title": "ELDEN RING",
+      "releaseDate": "February 25, 2022",
+      "genres": ["Action RPG"],
+      "developer": "FromSoftware",
+      "about": "Elden Ring is an action role‑playing game developed by FromSoftware and published by Bandai Namco Entertainment. It features an open world with a dynamic day‑night cycle and a large, detailed environment. The game was directed by Hidetaka Miyazaki, with fantasy writer George R. R. Martin contributing to the worldbuilding. It combines the dark, challenging gameplay of previous FromSoftware titles with a vast open‑world exploration system.",
+      "trailer": {
+        "title": "Become The Elden Lord",
+        "videoId": "qqiC88f9ogU"
+      }
+    },
+  
+    {
+      "slug": "nightrein",
+      "title": "NIGHTREIN",
+      "releaseDate": "October 14, 2024",
+      "genres": ["Action Adventure", "Souls‑like"],
+      "developer": "Moonforge Studios",
+      "about": "Nightrein drops you into a neon‑drenched metropolis ruled by corrupted titans. Dodge, parry and counter in tight, timing‑based combat while piecing together the city’s forgotten past.",
+      "trailer": {
+        "title": "Nightrein – First Look",
+        "videoId": "AWrXpJQBJF0"
+      }
+    },
+  
+    {
+      "slug": "dark-souls-3",
+      "title": "DARK SOULS III",
+      "releaseDate": "March 24, 2016",
+      "genres": ["Action RPG"],
+      "developer": "FromSoftware",
+      "about": "The darkly atmospheric finale of the Dark Souls saga. Fast, fluid combat, labyrinthine level design and brutally satisfying boss fights await any who dare to Link the Fire.",
+      "trailer": {
+        "title": "Accursed Flame",
+        "videoId": "_zDZYrIUgKE"
+      }
+    },
+  
+    {
+      "slug": "bloodborne",
+      "title": "BLOODBORNE",
+      "releaseDate": "March 24, 2015",
+      "genres": ["Action RPG"],
+      "developer": "FromSoftware",
+      "about": "Face your fears in the gothic city of Yharnam. Hunt nightmarish beasts, unravel cosmic horrors and confront the plague that twists reality itself.",
+      "trailer": {
+        "title": "Bloodborne – Hunt Your Nightmares",
+        "videoId": "G203e1HhixY"
+      }
+    },
+  
+    {
+      "slug": "sekiro",
+      "title": "SEKIRO™: SHADOWS DIE TWICE",
+      "releaseDate": "March 22, 2019",
+      "genres": ["Action Adventure"],
+      "developer": "FromSoftware",
+      "about": "Carve a path to revenge. In late‑1500s Sengoku Japan take on the role of the “one‑armed wolf” and master a brutal katana‑and‑parry combat system.",
+      "trailer": {
+        "title": "Sekiro – Become the Shinobi",
+        "videoId": "rXMX4YJ7Lks"
+      }
+    }
+  ]
+  
