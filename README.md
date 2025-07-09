@@ -14,7 +14,7 @@
 
 ### 🖥️ Desktop View
 
-![Desktop Screenshot](<img width="415" height="653" alt="Image" src="https://github.com/user-attachments/assets/194b5058-df95-4869-bdfa-74573d8667b9" />)
+![Desktop Screenshot](https://github.com/levanl/FromSoftArchives/blob/87f5687c88cc4db1da928c347c43caab412a26ad/Screenshot%202025-07-09%20at%2010.25.29.png)
 
 ### 📱 Mobile View
 
