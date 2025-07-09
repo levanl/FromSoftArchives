@@ -18,8 +18,7 @@
 
 ### 📱 Mobile View
 
-![Mobile Screenshot](<img width="415" alt="Screenshot 2025-07-09 at 10 24 23" src="https://github.com/user-attachments/assets/3cc3ba9e-2b56-4850-a0b2-fbd33fbc8895" />
-)
+![Mobile Screenshot](https://github.com/levanl/FromSoftArchives/blob/407357de24201e00268ca6b013cd26a332c92958/Screenshot%202025-07-09%20at%2010.24.23.png)
 
 ---
 
