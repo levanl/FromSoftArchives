@@ -14,7 +14,7 @@
 
 ### 🖥️ Desktop View
 
-![Desktop Screenshot](<img width="1417" alt="Screenshot 2025-07-09 at 10 26 45" src="https://github.com/user-attachments/assets/953acf85-9f55-4f60-99c3-00283b6d5426" />)
+![Desktop Screenshot](<img width="415" height="653" alt="Image" src="https://github.com/user-attachments/assets/194b5058-df95-4869-bdfa-74573d8667b9" />)
 
 ### 📱 Mobile View
 
